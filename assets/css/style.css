@@ -1,0 +1,63 @@
+#answerOne{
+    background-color: #563d7c;
+}
+
+#answerTwo{
+    background-color: #563d7c;
+}
+
+#answerThree{
+    background-color: #563d7c;
+}
+
+#answerFour{
+    background-color: #563d7c;
+}
+
+#startButton{
+    background-color: #563d7c;
+    text-align: center;
+}
+
+#buttonDiv{
+    text-align: center;
+}
+
+#answers{
+    text-align: center;
+}
+
+
+#highscore-link{
+    color: black;
+}
+
+#question {
+    text-align: center;
+}
+
+#master-div {
+    text-align: -webkit-center;
+}
+
+#score{
+    margin: 15px 15px 15px 15px;
+}
+
+#input-field {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+#go-back {
+    margin-top: 15px;
+    margin-right: 15px;
+}
+
+#clear-highscores {
+    margin-top: 15px;
+}
+
+td {
+    padding: 5px;
+}
